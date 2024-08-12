@@ -16,7 +16,7 @@ The code is modified to use the free version of gemini api instead of openAI's A
 Use the first 4 cells to install all the dependencies needed for the application.<br/>
 <strong>Restart the session:</strong><br/>
 In order for some library imports to take effect, we will need to restart the session.<br/>
-<em>WARNING: The cells below might lead to import errors if the session is not restarted.</em><br/>
+<em>WARNING: The cells might lead to import errors if the session is not restarted.</em><br/>
 <strong>Creating a Vector database using FAISS + langchain:</strong><br/>
 
 ![Creating a Vector database using FAISS + langchain](https://github.com/user-attachments/assets/74e3854d-8794-4fe6-beba-3766568a1187)
