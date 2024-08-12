@@ -1,5 +1,5 @@
 # RAG-application
-<strong>The summary of the  work entire flow of the application:</strong><br/> 
+<strong>The summary of the entire work flow of the application:</strong><br/> 
 <ul>
   <li>Transcribing Indic audio to Indic text using IndicASR.<br/></li> 
   <li>Translating Indic text to english text using IndicTrans2.<br/></li> 
