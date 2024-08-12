@@ -9,15 +9,15 @@
   <li>Translating english information back to origin language using IndicTrans2.<br/></li> 
   <li>Converting the processed information to audio in original language using IndicTTS.<br/></li> 
 </ul>
-<strong>Work flow of an end-to-end RAG powered voice assistant</strong>
+<strong>Work flow of an end-to-end RAG powered voice assistant:</strong>
 <img width="1390" alt="Rag workflow" src="https://github.com/user-attachments/assets/96296727-d7f4-4f94-a0df-55c35d481409">
 The code is modified to use the free version of gemini api instead of openAI's API.<br/>
-<strong>Install dependencies</strong><br/>
+<strong>Install dependencies:</strong><br/>
 Use the first 4 cells to install all the dependencies needed for the application.<br/>
-<strong>Restart session</strong><br/>
+<strong>Restart the session:</strong><br/>
 In order for some library imports to take effect, we will need to restart the session.<br/>
 <em>WARNING: The cells below might lead to import errors if the session is not restarted.</em><br/>
-<strong>Creating a Vector database using FAISS + langchain</strong><br/>
+<strong>Creating a Vector database using FAISS + langchain:</strong><br/>
 
 ![Creating a Vector database using FAISS + langchain](https://github.com/user-attachments/assets/74e3854d-8794-4fe6-beba-3766568a1187)
 
