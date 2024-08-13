@@ -1,5 +1,5 @@
-# Building a RAG application
-<strong>The summary of the entire flow:</strong><br/>
+# Building the RAG application
+<strong>The summary of the entire work flow:</strong><br/>
 <ul>
   <li>Transcribing Indic audio to Indic text using <em>IndicASR</em>.</li>
   <li>Translating Indic text to english text using <em>IndicTrans2</em>.</li>
