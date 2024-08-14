@@ -35,7 +35,7 @@ Working of an Automatic Speech Recognition (ASR) Model<br/>
   <li><strong>Acoustic Modeling: </strong>The extracted features are then compared against acoustic models, which are statistical representations of different speech sounds (phonemes). These models have been trained on large datasets of recorded speech and corresponding transcriptions, allowing the system to predict which phonemes match the features of the audio signal.</li>
   <li><strong>Language Modeling and Decoding: </strong>Finally, the recognized phonemes are put together using a language model that understands the probabilities of different word sequences. This helps in forming coherent and grammatically correct sentences. The system then decodes the best match for the spoken input, converting the series of phonemes into a text output that represents what was said.</li>
 </ul>
-We will be using the NeMo framework released by NVIDIA for using the IndicASR models.<br/>
+We are using the NeMo framework released by NVIDIA for using the IndicASR models.<br/>
 Reference: https://docs.nvidia.com/nemo-framework/user-guide/latest/overview.html<br/>
 
 ### Install IndicTrans2 dependencies
